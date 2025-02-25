@@ -1,1 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/TP0ZkiLb)
+# Information
+- Name: Jiro Kristofer Tipan
+- Course: BS Computer Science
+- Section: C-1L
+- Student number: 2023-13538
+
+# Key Takeaways:
+- JavaScript also has importing and exporting of code from different files which can be useful not just in sorting out your functions but in also downloading open source code from the web such as npm's available installations. This can allow for quicker coding as you can simply just install and import functions already done by others. 
